@@ -9,8 +9,8 @@ from backend.wallet.transaction import Transaction
 
 
 pnconfig = PNConfiguration()
-pnconfig.subscribe_key = 'sub-c-0d25c79e-ee54-11eb-ad49-d27c727b4015'
-pnconfig.publish_key = 'pub-c-81f8dc7e-db9a-41e7-a49d-d0699ce70d54'
+pnconfig.subscribe_key = ''
+pnconfig.publish_key = ''
 
 CHANNELS = {
     'TEST': 'TEST',
